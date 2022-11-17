@@ -21,7 +21,7 @@ Hi, I'm Maicon, a Javascript Fullstack Student from Brazil. my passion for softw
 <hr>
 
 <div align="center">
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/mrdsantos/mrdsantos/main/media/img/developer.gif" height="270" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/mrdsantos/mrdsantos/main/media/img/developer.gif" height="260" />
 
 ### Languages and Tools:
 
