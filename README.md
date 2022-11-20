@@ -63,7 +63,7 @@ Hi, I'm Maicon, a Javascript Fullstack Student from Brazil. my passion for softw
 
 <div>
 <p align="center">
-	<img style="height: 23vh;" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrdsantos&show_icons=true&theme=material-palenight&locale=en" alt="mrdsantos" />
-	<img style="height: 23vh;" src="https://github-readme-stats.vercel.app/api?username=mrdsantos&show_icons=true&theme=material-palenight&locale=en" alt="mrdsantos" />
+	<img style="height: 23vh;" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrdsantos&show_icons=true&theme=material-palenight&locale=en&count_private=true" alt="mrdsantos" />
+	<img style="height: 23vh;" src="https://github-readme-stats.vercel.app/api?username=mrdsantos&show_icons=true&theme=material-palenight&locale=en&count_private=true" alt="mrdsantos" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrdsantos&theme=monokai">
 </div>
