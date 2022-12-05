@@ -21,6 +21,12 @@ Hi, I'm Maicon, a Javascript Fullstack Student from Brazil. my passion for softw
 
 <hr>
 
+### Keep up with my progress
+[Javascript - Basic](https://github.com/mrdsantos/onebitcode/tree/master/javascript) <img src="https://img.icons8.com/color/16/null/weak.png"/>
+
+[Javascript - DOM](https://github.com/mrdsantos/onebitcode/tree/master/javascript_dom) <img src="https://img.icons8.com/color/16/null/weak.png"/>
+
+<hr>
 <div align="center">
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/mrdsantos/mrdsantos/main/media/img/developer.gif" height="260" />
 
