@@ -28,7 +28,7 @@ Hi, I'm Maicon, a Javascript Fullstack Student from Brazil. my passion for softw
 
 <hr>
 <div align="center">
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/mrdsantos/mrdsantos/main/media/img/developer.gif" height="260" />
+<picture><img align="right" alt="GIF" src="https://raw.githubusercontent.com/mrdsantos/mrdsantos/main/media/img/developer.gif" height="260" /></picture>
 
 ### Languages and Tools:
 
@@ -39,25 +39,25 @@ Hi, I'm Maicon, a Javascript Fullstack Student from Brazil. my passion for softw
 <div align="center">
 <div align="center">
 <code>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>
+<picture><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/></picture>
 </code> <br>
 </div>
 <code>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/> 
+<picture><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/></picture>
+<picture><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/> </picture>
 </code> <br>
 </div>
 <code>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>
+<picture><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/></picture>
+<picture><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/></picture>
+<picture><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/></picture>
 </code><br>
 </div>
 <code>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
-<img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/>
+<picture><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/></picture>
+<picture><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/></picture>
+<picture><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/></picture>
+<picture><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/></picture>
 </code><br>
 </div>
 <br>
@@ -69,7 +69,7 @@ Hi, I'm Maicon, a Javascript Fullstack Student from Brazil. my passion for softw
 
 <div>
 <p align="center">
-	<img style="height: 23vh;" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrdsantos&show_icons=true&theme=material-palenight&locale=en&count_private=true" alt="mrdsantos" />
-	<img style="height: 23vh;" src="https://github-readme-stats.vercel.app/api?username=mrdsantos&show_icons=true&theme=material-palenight&locale=en&count_private=true" alt="mrdsantos" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrdsantos&theme=monokai">
+	<picture><img style="height: 23vh;" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrdsantos&show_icons=true&theme=material-palenight&locale=en&count_private=true" alt="mrdsantos" /></picture>
+	<picture><img style="height: 23vh;" src="https://github-readme-stats.vercel.app/api?username=mrdsantos&show_icons=true&theme=material-palenight&locale=en&count_private=true" alt="mrdsantos" /></picture>
+  <picture><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrdsantos&theme=monokai"></picture>
 </div>
