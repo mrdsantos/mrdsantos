@@ -3,7 +3,7 @@
 Hi, I'm Maicon, a Javascript Fullstack Student from Brazil. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience and the code quality of things I build.
 
 -   🌱 I’m currently learning Javascript and Databases.
--   💬 Ask me about anything. I'm aways open, even for smal talk or chit chats.
+-   💬 Ask me about anything. I'm aways open, even for smal talk.
 -   :warning: I really want to have a mentor, if you think you can help please get in touch.
 -   😄 Pronouns: ...He/Him.
 -   📫 How to reach me:
