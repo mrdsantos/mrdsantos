@@ -30,40 +30,52 @@ Hi, I'm Maicon, a Javascript Fullstack Student from Brazil. my passion for softw
 <div align="center">
 <picture><img align="right" alt="GIF" src="https://raw.githubusercontent.com/mrdsantos/mrdsantos/main/media/img/developer.gif" height="260" /></picture>
 
-### Languages and Tools:
+<div align="center">
+  <h3>Languages and Tools</h3>
+  <div>
+    <code>
+      <picture>
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
+      </picture>
+      <picture>
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
+      </picture>
+      <picture>
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
+      </picture>
+    </code>
+  </div>
+  <div>
+    <code>
+      <picture>
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+      </picture>
+      <picture>
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
+      </picture>
+      <picture>
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
+      </picture>
+    </code>
+  </div>
+  <div>
+    <code>
+      <picture>
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+      </picture>
+      <picture>
+        <img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+      </picture>
+      <picture>
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
+      </picture>
+      <picture>
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
+      </picture>
+    </code>
+  </div>
+</div>
 
-<div align="center">
-<div align="center">
-<div align="center">
-<div align="center">
-<div align="center">
-<div align="center">
-<code>
-<picture><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/></picture>
-</code> <br>
-</div>
-<code>
-<picture><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/></picture>
-<picture><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/> </picture>
-</code> <br>
-</div>
-<code>
-<picture><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/></picture>
-<picture><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/></picture>
-<picture><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/></picture>
-</code><br>
-</div>
-<code>
-<picture><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/></picture>
-<picture><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/></picture>
-<picture><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/></picture>
-<picture><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/></picture>
-</code><br>
-</div>
-<br>
-</div>
-</div>
-</div>
 
 <hr>
 
